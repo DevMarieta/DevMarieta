@@ -1,6 +1,7 @@
 
-[![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:1600/0*-u0b7K0Q6zfBcQqT.gif)]
-<h1 align="center">Hi 👋, I'm Mariya Hadzhiyska</h1>а
+![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)
+
+<h1 align="center">Hi 👋, I'm Mariya Hadzhiyska</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria! I like to program <3</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/c3/9f/06c39fa0a0a74bd1838e586fa1a991e6.gif">
@@ -12,15 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Redux.JS, React.JS, Node.JS,**
-
-- 👨‍💻 All of my projects are available at [{a little more to build}]({a little more to build})
+- 🌱 I’m currently learning **JavaScript, Redux.JS, React.JS, Node.JS, Microsoft SQL Server**
 
 - 📫 How to reach me **hadzhiyska.mariya@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mariya-hadzhiyska-54230214a/](https://www.linkedin.com/in/mariya-hadzhiyska-54230214a/)
 
-- ⚡ Fun fact **Likes to run with my dog ... :)**
+- ⚡ Fun fact **"I love to laugh, run with my dog, and sing in the park."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
