@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mariya Hadzhiyska</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria! I like to program <3</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/c3/9f/06c39fa0a0a74bd1838e586fa1a991e6.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l2azh2MHJobTh3Z2hkdnp0dHRjM2Jlb3ZiNWlld3NkNzZzdXdmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Ea5hYARGuur728wNb/giphy.gif">
 
 
 
