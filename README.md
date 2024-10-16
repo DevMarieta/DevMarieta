@@ -15,15 +15,9 @@
 
 - 🌱 I’m currently learning **JavaScript, Redux.JS, React.JS, Node.JS, Microsoft SQL Server**
 
-- 📫 How to reach me **hadzhiyska.mariya@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/mariya-hadzhiyska-54230214a/](https://www.linkedin.com/in/mariya-hadzhiyska-54230214a/)
-
 - ⚡ Fun fact **"I love to laugh, run with my dog, and sing in the park."**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mariya-hadzhiyska-54230214a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariya-hadzhiyska-54230214a" height="30" width="40" /></a>
+ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariya-hadzhiyska-54230214a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
