@@ -1,7 +1,7 @@
 
 ![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)
 
-<h1 align="center">Hi 👋, I'm Mariya Hadzhiyska</h1>
+<h1 align="center">Hi 👋, I'm Mariya </h1>
 <h3 align="center">A passionate frontend developer from Bulgaria! I like to program <3</h3>
 
 
