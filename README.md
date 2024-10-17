@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Python, Microsoft SQL Server**
+- 🌱 Тhese are my passions **JavaScript, Python, Microsoft SQL Server**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
