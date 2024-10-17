@@ -2,12 +2,6 @@
 ![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)
 
 <h1 align="center">Hi 👋, I'm Mariya </h1>
-<h3 align="center">I am a passionate front-end developer from Bulgaria, and I love programming! ❤️ </h3>
-
-
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmarieta&label=Profile%20views&color=0e75b6&style=flat" alt="devmarieta" /> </p>
 
