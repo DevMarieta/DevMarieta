@@ -1,5 +1,5 @@
-![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)
 
+<iframe src="https://giphy.com/embed/fmkYSBlJt3XjNF6p9c" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fmkYSBlJt3XjNF6p9c">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Mariya </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmarieta&label=Profile%20views&color=0e75b6&style=flat" alt="devmarieta" /> </p>
