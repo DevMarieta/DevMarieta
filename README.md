@@ -1,5 +1,5 @@
 
-![GIF](https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif)
+![GIF]([https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif](https://tenor.com/view/four-bfb-bfb-bfdi-x-bfb-coding-gif-2551249740589585797))
 
 <h1 align="center">Hi 👋, I'm Mariya </h1>
 
