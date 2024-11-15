@@ -7,7 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Тhese are my passions **JavaScript, Python, Microsoft SQL Server**
+👋 Welcome to my GitHub!
+
+I'm passionate about the intersection of programming, business processes, and marketing. Entrepreneurially oriented, I enjoy building solutions that integrate social media dynamics and business logic into practical, impactful projects. My goal is to leverage technology to drive meaningful change and efficiency in business.
+
+Languages and Tools:
+JavaScript | Python | Django | Flask | HTML | CSS | Microsoft SQL Server
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
