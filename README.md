@@ -1,12 +1,11 @@
 
 ![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)
-<h1 align="center">Hi 👋, I'm Mariya </h1>
+<h1 align="center">👋 Hello and welcome to my GitHub! </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmarieta&label=Profile%20views&color=0e75b6&style=flat" alt="devmarieta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-👋 Hello and welcome to my GitHub!
 Nice to meet you – my name is Maria.
 
 I'm a developer and aspiring tech entrepreneur with a strong passion for building solutions that connect code, business logic, and social impact.
