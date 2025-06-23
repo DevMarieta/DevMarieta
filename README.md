@@ -26,7 +26,7 @@ My work brings together:
 🧵 Community-driven platforms with real-world impact
 
 🚀 Projects I'm working on:
-🐾 A public platform to help locate lost pets in Bulgaria
+🐾 A public platform 
 
 🤖 Tools for automating content creation, publishing, and client onboarding
 
