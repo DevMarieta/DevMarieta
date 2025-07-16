@@ -33,8 +33,7 @@ As a woman in tech and an entrepreneur, I combine coding with business strategy 
 ---
 
 ### 🌟 **Let’s connect:**
-If you care about automations, business logic, AI, or want to collaborate on impact-driven platforms,  
-**let’s talk! I’m open for partnerships, freelance projects, and ambitious ideas.**
+If you care about automations, business logic, AI, or want to collaborate on impact-driven platforms, **let’s talk! I’m open for partnerships, freelance projects, and ambitious ideas.**
 
 ---
 
