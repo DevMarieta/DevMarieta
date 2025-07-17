@@ -39,9 +39,3 @@ If you’re looking to automate processes, develop a platform, or discuss innova
   </a>
 </p>
 
----
-
-> _"Turning complex ideas into powerful digital systems that actually help people – that's my mission."_
-
-
-
