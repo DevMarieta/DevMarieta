@@ -6,36 +6,19 @@
   <img src="https://komarev.com/ghpvc/?username=devmarieta&label=Profile%20views&color=0e75b6&style=flat" alt="devmarieta" />
 </p>
 
----
+✨ Hello, I’m Maria – a specialist in business process automation and analysis, focused on developing efficient solutions. I help businesses and entrepreneurs optimize their workflows, save time, and focus on their strategic goals.
 
-✨ **Hi, I'm Maria – developer, business process analyst, and automation enthusiast.**  
-I create digital solutions and automations that help real businesses and real people save time, optimize processes, and focus on what matters.
+**What I offer:**
+- **Process Analysis and Automation:** Mapping and optimizing workflows for startups, small, and medium-sized enterprises.
+- **Software Development:** Building SaaS platforms, MVPs, and backend logic using technologies like Python, JavaScript, React, and Node.js.
+- **AI-Powered Automation:** Integrating artificial intelligence to enhance efficiency.
+- **Marketing and Data Analysis:** Connecting business strategies with data for better outcomes.
 
----
+**What sets me apart:**
+I combine technical expertise with a business-oriented mindset, delivering solutions that are both practical and innovative. As a woman in tech and an entrepreneur, I bring a unique perspective and dedication to every project.
 
-### 💡 **What I do best:**
-
-- **Business Process Analysis & Automation**  
-  Mapping, optimizing, and automating workflows for entrepreneurs, startups, and growing companies.
-- **SaaS & Platform Development (Python, JS, React,NodeJS)**  
-  From idea to launch – building tools, MVPs, and backend logic.
-- **AI-powered Automations**  
-  Integrating OpenAI, chatbots, and smart automations for marketing, support, and operations.
-- **Marketing & Content Analytics**  
-  Connecting business logic with data for smarter decisions and growth.
-- **Community & Mission-Driven Projects**  
-  Building platforms that empower people and make a difference.
----
-
-### 👩‍💻 **What sets me apart:**
-As a woman in tech and an entrepreneur, I combine coding with business strategy and real-world understanding. I don't just build code – I create complete solutions that work for people and deliver results.
-
----
-
-### 🌟 **Let’s connect:**
-If you care about automations, business logic, AI, or want to collaborate on impact-driven platforms, **let’s talk! I’m open for partnerships, freelance projects, and ambitious ideas.**
-
----
+**Connect with me:**
+If you’re looking to automate processes, develop a platform, or discuss innovative ideas, I’d love to chat! I’m open to collaborations, freelance projects, and partnerships. 📩
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
